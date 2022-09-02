@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  color: #283474;
+  font-weight: 800;
+}
+
+#main {
+  width: 700px;
+  margin: 20vh auto 0 auto;
+  text-align: center;
+  padding: 70px;
+  background-color: rgb(244, 244, 244);
+  border: 5px solid rgb(228, 227, 227);
+}
+
+#msg-redefinir {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #283474;
+  height: 60px;
+}
+
+.link-redefinir{
+  font-size: 20px;
+  color: #283474;
+}
